@@ -1,0 +1,25 @@
+.navbar{
+    background-color: brown;
+    padding :  10px 20px;
+}
+
+.navbar-list   {
+   padding:0;
+   list-style-type :none;
+    margin:0;
+}
+
+.navbar-list li{
+    display:inline-block;
+    margin-right:20px;
+}
+.navbar-list li a {
+    display:block;
+    padding:10px 20px;
+    color:aqua;
+    text-decoration:none;
+}
+
+.navbar-list li a:hover{
+    color:black ;
+}
